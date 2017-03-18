@@ -7,11 +7,16 @@ redirect_from:
 - /en/doc/stick-mounting/
 - /doc/StickMounting/
 - /wiki/StickMounting/
+- /doc/external-device-mount-point/
+- /en/doc/external-device-mount-point/
+- /doc/ExternalDeviceMountPoint/
+- /wiki/ExternalDeviceMountPoint/
 - /doc/usbvm/
 - /en/doc/usbvm/
 - /doc/USBVM/
 - /wiki/USBVM/
 - /doc/sys-usb/
+
 ---
 
 Using and Managing USB Devices
